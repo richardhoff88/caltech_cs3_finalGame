@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "asset.h": "c",
+        "asset_cache.h": "c",
+        "collision.h": "c",
+        "sdl_wrapper.h": "c",
+        "state.h": "c",
+        "level.h": "c",
+        "character.h": "c",
+        "math.h": "c",
+        "vector.h": "c"
+    }
+}
